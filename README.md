@@ -1,7 +1,3 @@
-# EV Charging Stations Placement Optimization in Montreal
-
-This repository contains the code, data, and documentation for the project **"EV Charging Stations Placement Optimization in Montreal"**, presented as part of the ECE1724 course at the University of Toronto.
-
 ## 📄 Abstract
 
 This study presents an optimization framework for electric vehicle (EV) charging station placement in Montreal using Genetic Algorithms (GA) and their advanced variants (Modified GA and Adaptive GA). By minimizing total deployment costs while ensuring sufficient service coverage based on real-world traffic demand data, the project offers insights into cost-effective and scalable infrastructure planning for urban EV networks.
